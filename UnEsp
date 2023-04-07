@@ -1,2 +1,4 @@
 v.Glow:Destroy()
 v.Chams:Destroy()
+
+local char = v.Character
